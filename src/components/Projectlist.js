@@ -1,34 +1,38 @@
 export const projectlist = [
     {
-      title: "React Reserve",
-      subtitle: "MERN Stack",
+      title: "Deja-Brew",
+      subtitle: "Github Repo",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-1.gif",
-      link: "https://reactbootcamp.com",
+        "Deja Brew is a handy application that allows users to search for breweries in local cities or anywhere in the United States. Co-Authored with Carson Adair, Michael Arasimowicz, and Katie Karr.",
+      image: "./project-1.png",
+      gitlink: "",
+      link: "https://tiomeko.github.io/deja-brew/",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "Scorecard App",
+      subtitle: "Github Repo",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
-      link: "https://reedbarger.com",
+        "This is a full-stack application that allows a golfer to record their hole-by-hole scores, review past game scorecards, and view a chart of past game scores.",
+      image: "./project-2.png",
+      gitlink: "",
+      link: "https://sam-scorecard-app.herokuapp.com/",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Weather App",
+      subtitle: "Github Repo",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://jsbootcamp.com",
+        "Weather app that provides current and future weather forecasts for searched cities.",
+      image: "./project-3.png",
+      gitlink: "",
+      link: "https://bsimmonds28.github.io/weather-forecast/",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "Code Quiz",
+      subtitle: "Github Repo",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
+        "A timed coding quiz with multiple-choice questions to test the user's knowledge of some basic coding topics.",
+      image: "./project-4.png",
+      gitlink: "",
+      link: "https://bsimmonds28.github.io/CodeQuiz/",
     },
   ];

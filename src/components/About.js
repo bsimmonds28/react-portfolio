@@ -6,25 +6,28 @@ export default function About() {
           <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
             <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
               <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-                Hi, I'm Reed.
+                Hi, I'm Bethany.
                 <br className="hidden lg:inline-block" />I love to build amazing
                 apps.
               </h1>
               <p className="mb-8 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-                Laborum, voluptas natus?
+              Full Stack Web Developer with a B.S. in Psychology from Haverford College and six years of experience in the nonprofit industry, including five years in marketing and communications. I started my career as an AmeriCorps Vista and now direct two departments at a national nonprofit. My strong work-ethic, project management skills, attention to detail, and creative problem-solving along with my drive to keep learning best practices have helped me successfully navigate new projects and roles. <b>I am ready to use the skills I’ve honed in a new way. Currently, I am completing the University of Connecticut’s Coding Bootcamp in order to become a Software Engineer.</b>
               </p>
               <div className="flex justify-center">
                 <a
-                  href="#contact"
-                  className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-                  Work With Me
+                  href="https://www.linkedin.com/in/bethany-simmonds-28-/" target="_blank"
+                  className="inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg">
+                  Linkedin
                 </a>
                 <a
-                  href="#projects"
+                  href="https://github.com/bsimmonds28" target="_blank"
                   className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-                  See My Past Work
+                  Github
+                </a>
+                <a
+                  href="#contact"
+                  className="ml-4 inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 hover:text-white rounded text-lg">
+                  Hire Me
                 </a>
               </div>
             </div>
