@@ -4,13 +4,15 @@ export default function Resume() {
   const [showModal, setShowModal] = React.useState(false);
   return (
     <>
+    <div className="container px-5 center mx-auto">
       <button
-        className="bg-pink-500 text-white active:bg-pink-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
+        className="bg-teal-800 rounded items-center text-white h-full sm:w-1/2 w-full items-center active:bg-teal-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:bg-teal-600 outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
         type="button"
         onClick={() => setShowModal(true)}
       >
-        View Resume!
+        View Resume
       </button>
+      </div>
       {showModal ? (
         <>
           <div
