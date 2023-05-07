@@ -11,4 +11,28 @@ export const slist = [
     {
         skill: "JQuery",
     },
+    {
+        skill: "Bootstrap",
+    },
+    {
+        skill: "Node.js",
+    },
+    {
+        skill: "SQL",
+    },
+    {
+        skill: "Express",
+    },
+    {
+        skill: "Mongoose",
+    },
+    {
+        skill: "PWAs",
+    },
+    {
+        skill: "React",
+    },
+    {
+        skill: "MERN",
+    },
   ];
