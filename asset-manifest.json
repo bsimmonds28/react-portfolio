@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bsimmonds28.github.io/react-portfolio/static/css/main.9419b587.css",
-    "main.js": "/bsimmonds28.github.io/react-portfolio/static/js/main.40951f37.js",
-    "index.html": "/bsimmonds28.github.io/react-portfolio/index.html",
-    "main.9419b587.css.map": "/bsimmonds28.github.io/react-portfolio/static/css/main.9419b587.css.map",
-    "main.40951f37.js.map": "/bsimmonds28.github.io/react-portfolio/static/js/main.40951f37.js.map"
+    "main.css": "/react-portfolio/static/css/main.9419b587.css",
+    "main.js": "/react-portfolio/static/js/main.40951f37.js",
+    "index.html": "/react-portfolio/index.html",
+    "main.9419b587.css.map": "/react-portfolio/static/css/main.9419b587.css.map",
+    "main.40951f37.js.map": "/react-portfolio/static/js/main.40951f37.js.map"
   },
   "entrypoints": [
     "static/css/main.9419b587.css",
