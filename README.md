@@ -1,9 +1,9 @@
 # react-portfolio
 ## Description
 I built a single-page React portfolio to share my projects and resume with potential employers. 
-https://bsimmonds28.github.io/react-portfolio/
+- [Click here to view my portfolio!](https://bsimmonds28.github.io/react-portfolio/)
 
-[![Picture of the application](./public/demo-pic.png)(https://bsimmonds28.github.io/react-portfolio/)]
+![Picture of the application](./public/demo-pic.png)
 
 ## Table of Contents
 - [Description](#description)
