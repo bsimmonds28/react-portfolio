@@ -1,5 +1,14 @@
 export const projectlist = [
     {
+      title: "Plant Petaler",
+      subtitle: "Github Repo",
+      description:
+        "Plant Petaler is a e-commerce site that allows users to shop for plants. Co-Authored with Daniel Apacible, Anthony Battinelli, Lonnie Root, and Lauren Szalkiewicz.",
+      image: "./project-1.png",
+      gitlink: "",
+      link: "https://plant-petaler.herokuapp.com/",
+    },
+    {
       title: "Deja-Brew",
       subtitle: "Github Repo",
       description:
