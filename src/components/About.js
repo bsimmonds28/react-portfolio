@@ -15,12 +15,12 @@ export default function About() {
               </p>
               <div className="flex justify-center">
                 <a
-                  href="https://www.linkedin.com/in/bethany-simmonds-28-/" target="_blank"
+                  href="https://www.linkedin.com/in/bethany-simmonds-28-/" target="_blank" rel="noreferrer"
                   className="inline-flex text-white bg-zinc-600 border-0 py-2 px-6 focus:outline-none hover:bg-zinc-800 rounded text-lg">
                   Linkedin
                 </a>
                 <a
-                  href="https://github.com/bsimmonds28" target="_blank"
+                  href="https://github.com/bsimmonds28" target="_blank" rel="noreferrer"
                   className="ml-4 inline-flex text-white bg-zinc-600 border-0 py-2 px-6 focus:outline-none hover:bg-zinc-800 hover:text-white rounded text-lg">
                   Github
                 </a>
