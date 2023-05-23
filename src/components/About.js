@@ -11,7 +11,7 @@ export default function About() {
                 I love bringing apps to life.
               </h1>
               <p className="mb-8 text-left leading-relaxed">
-              Nonprofit progessional and Full Stack Web Developer with a B.S. in Psychology from Haverford College and six years of experience in the nonprofit industry, including five years in marketing and communications. I started my career as an AmeriCorps Vista and now direct two departments at a national nonprofit. My strong work-ethic, project management skills, attention to detail, and creative problem-solving along with my drive to keep learning best practices have helped me successfully navigate new projects and roles. <b>I am ready to use the skills I’ve honed and what I learned at the University of Connecticut’s Coding Bootcamp in order to support your team.</b>
+              Nonprofit Professional and Full Stack Web Developer with a B.S. in Psychology from Haverford College and six years of experience in the nonprofit industry, including five years in marketing and communications. I started my career as an AmeriCorps Vista and now direct two departments at a national nonprofit. My strong work-ethic, project management skills, attention to detail, and creative problem-solving along with my drive to keep learning best practices have helped me successfully navigate new projects and roles. <b>I am ready to use the skills I’ve honed and what I learned at the University of Connecticut’s Coding Bootcamp in order to support your team.</b>
               </p>
               <div className="flex justify-center">
                 <a
