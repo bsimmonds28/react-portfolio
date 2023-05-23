@@ -15,7 +15,7 @@ export default function Contact() {
 
   function handleSubmit(e) {
     e.preventDefault();
-    fetch("https://formspree.io/bsimmonds28@gmail.com", {
+    fetch("https://formspree.io/f/xrgvvpyr", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", name, email, message }),
@@ -59,7 +59,7 @@ export default function Contact() {
           </div>
         </div>
         <form
-          netlify
+          data-netlify="true"
           name="contact"
           onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
